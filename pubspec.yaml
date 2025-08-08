@@ -1,5 +1,5 @@
-name: nombre_y_matricula
-description: A new Flutter project.
+name: WordStorm
+description: Wordle clone.
 publish_to: 'none'
 
 version: 1.0.0+1
